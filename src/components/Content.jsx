@@ -1,8 +1,8 @@
 
 
-const Content = ({user, stats}) => {
+const Content = () => {
     return (
-        <div className={'content'}>
+        <div >
             Main content here
         </div>
     );
